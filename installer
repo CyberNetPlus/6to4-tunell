@@ -1,0 +1,15 @@
+#!/bin/bash
+# ساخت پوشه و ورود به آن
+mkdir -p tunnel_folder
+cd tunnel_folder || exit
+
+# دانلود اسکریپت اصلی
+wget https://raw.githubusercontent.com/CyberNetPlus/6to4-tunell/main/tunnel_wizard.sh -O tunnel_wizard.sh
+
+# اجرایی کردن فایل
+chmod +x tunnel_wizard.sh
+
+# پیام راهنما
+echo "اکنون اسکریپت دانلود و آماده اجرا است."
+echo "برای اجرا دستور زیر را وارد کنید:"
+echo "sudo bash tunnel_wizard.sh"
