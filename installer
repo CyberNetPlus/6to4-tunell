@@ -1,6 +1,0 @@
-#!/bin/bash
-mkdir -p tunnel_folder
-cd tunnel_folder
-git clone https://raw.githubusercontent.com/CyberNetPlus/6to4-tunell/main/tunnel_wizard_pro -O tunnel_wizard_pro
-chmod +x tunnel_wizard_pro
-sudo bash tunnel_wizard_pro
