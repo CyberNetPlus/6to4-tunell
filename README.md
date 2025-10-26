@@ -1,9 +1,7 @@
 #run
 
-git clone https://github.com/CyberNetPlus/6to4-tunell.git
-cd 6to4-tunell
-chmod +x tunnel-manager.sh
-sudo ./tunnel-manager.sh
+git clone https://github.com/CyberNetPlus/6to4-tunell.git && cd 6to4-tunell && chmod +x tunnel-manager.sh && sudo ./tunnel-manager.sh
+
 
 
 
