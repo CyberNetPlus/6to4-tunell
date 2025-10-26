@@ -1,5 +1,16 @@
-Tunnel Manager v6 — Extended Description
+#run
 
+git clone https://github.com/CyberNetPlus/6to4-tunell.git
+cd 6to4-tunell
+chmod +x tunnel-manager.sh
+sudo ./tunnel-manager.sh
+
+
+
+
+
+
+#Tunnel Manager v6 — Extended Description
 Tunnel Manager v6 is a professional, interactive shell script for Linux that allows you to easily create, manage, and monitor IPv6 tunnels. It supports multiple tunnel types including 6to4, IPIP6, and GRE1, all presented in a user-friendly, color-coded terminal interface.
 
 Features
