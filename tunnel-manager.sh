@@ -1,8 +1,8 @@
 #!/bin/bash
 # ────────────────────────────────────────────────
 # Tunnel Manager — Full Graphic v6.1
-# Author: Mikhaieel
-# YouTube: https://youtube.com/@Mikhaieel
+# Author: Cyber Net Plus (Babak Khedri) 
+# YouTube: https://www.youtube.com/@Cyber_Net_Plus
 # ────────────────────────────────────────────────
 
 # Colors
@@ -47,7 +47,7 @@ while true; do
     # ────────────── Header ──────────────
     echo -e "${BOLD}${CYAN}╔══════════════════════════════════════════════════════════╗"
     echo -e "║                    TUNNEL CYBER-TUNNEL                   ║"
-    echo -e "║                 Author: Mikhaieel                        ║"
+    echo -e "║          Author: Cyber Net Plus (Babak Khedri)           ║"
     echo -e "║        YouTube: https://www.youtube.com/@Cyber_Net_Plus  ║"
     echo -e "╚══════════════════════════════════════════════════════════╝${RESET}"
     echo
